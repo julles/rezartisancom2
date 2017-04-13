@@ -3,11 +3,23 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>    
+<meta http-equiv="content-language" content="en-us, id">
+<meta http-equiv="cache-control" content="cache" />
+<meta name="keywords" content="Muhamad Reza,Abdul Rohim,koding,laravel,indonesia,web developer,bogor,tutorial,bahasa,vue,javascript" />
+<meta name="description" content="halo saya Muhamad Reza Abdul Rohim Expert Web Application Developer dari Bogor,Indonesia" />
+<meta name="robots" content="">
+<meta name="rating" content="general" />
+<meta name="publisher" content="www.rezartisan.com" />
+<meta name="copyright" content="www.rezartisan,2017" />
+<meta name="author" content="Muhamad Reza Abdul Rohim" />
+<meta name="distribution" content="global" />
+<meta name="language" content="en, id" />
+<meta name="geo.country" content="id" />
+<meta name="geo.placename" content="indonesia" />
+<meta name="expires" content="never"/>
+<meta name="revisit-after" content="1 days"/>
+<meta name="spiders" content="all"/>
 
     <title>Muhamad Reza-{{ $page }}</title>
 

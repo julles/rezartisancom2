@@ -42,6 +42,7 @@ class PageController extends Controller
     {
     	$model = $this->blogModel
     	->whereSlug($slug)
+    	->where('status','y')
     	->firstOrFail();
 
     	$page = $model->title;

@@ -31,7 +31,7 @@ class PageController extends Controller
     	$page = 'home';
     	$blogs = $this->blogModel
     		->where('status','y')
-    		->orderBy('created_at','asc')
+    		->orderBy('created_at','desc')
     		->paginate(5);
 
     	return view($this->view.'home',compact('page','blogs'));

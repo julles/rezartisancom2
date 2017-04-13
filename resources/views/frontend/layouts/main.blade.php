@@ -64,7 +64,7 @@
                         <a href="{{ url('/') }}">Home</a>
                     </li>
                     <li>
-                        <a href="#">About</a>
+                        <a href="https://www.linkedin.com/in/muhamad-reza-abdul-rohim-63429064">About</a>
                     </li>
                 </ul>
             </div>
